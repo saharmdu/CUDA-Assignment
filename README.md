@@ -1,4 +1,5 @@
 CUDA Image Processing Assignment:
+
 This repository contains CUDA-based image processing executables, demonstrating various operations on images using CUDA and OpenCV. The project is structured to apply different image processing techniques, including grayscale conversion, combining images, and processing with multiple streams for efficiency.
 The output of graysacale is included in data folder.
 
